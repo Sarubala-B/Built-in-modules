@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# MyApp
+
+A simple Node.js application demonstrating the usage of `fs`, `path`, and `https` modules.
+
+## Files
+
+- `fileOperations.js`: Demonstrates file system operations using the `fs` module.
+- `pathOperations.js`: Demonstrates path operations using the `path` module.
+- `httpsRequest.js`: Demonstrates making an HTTPS request using the `https` module.
+
+## Running the Application
+
+To run the examples, use the following command:
+
+```bash
+npm start
+
+### **How to Run**
+
+1. **Navigate to the Project Directory**:
+   ```bash
+   cd path/to/myapp
